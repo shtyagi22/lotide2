@@ -1,7 +1,7 @@
 {
-  "name": "lotide2",
+  "name": "@sh.tyagi22/lotide2",
   "version": "1.0.0",
-  "description": "",
+  "description": "lotide version of lodash",
   "main": "assertArraysEqual.js",
   "directories": {
     "test": "test"
@@ -14,7 +14,7 @@
     "url": "git+https://github.com/shtyagi22/lotide2.git"
   },
   "keywords": [],
-  "author": "",
+  "author": "Shelly",
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/shtyagi22/lotide2/issues"
