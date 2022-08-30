@@ -12,9 +12,26 @@ const eqArrays = require('./eqArrays')
 const takeUntil = require('./takeUntil')
 const without = require('./without')
 
-
-
 module.exports = {
+  head,
+  tail,
+  middle,
+  countLetters,
+  countOnly,
+  findKey,
+  findKeyByValue,
+  letterPositions,
+  map,
+  eqObjects,
+  eqArrays,
+  takeUntil,
+  without
+};
+
+
+
+
+/***module.exports = {
   head: head,
   tail: tail,
   middle: middle,
@@ -29,3 +46,4 @@ module.exports = {
   takeUntil: takeUntil,
   without: without
 };
+***/
